@@ -35,3 +35,22 @@ dd#arr_letra{
     font-size: 20px;
     margin: 0px 55%;
 }
+
+dd#derecho{
+    font-size: 25px; 
+    margin: 0px 55%;
+}
+
+h2#letra{
+    font: oblique bold 120% cursive;
+    font-size: 25px; 
+}
+
+h2{
+    font: oblique bold 120% cursive;
+}
+
+h2#sub{
+    font: 150% sans-serif;
+    color: darkred;
+}

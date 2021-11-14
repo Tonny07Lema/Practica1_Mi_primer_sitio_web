@@ -1,4 +1,3 @@
-
 #portada{
     position:static; z-index:1; width:100%; height:100%
 }
@@ -25,5 +24,15 @@
 
 #menu ul li a:hover{
     background-color: rgb(51, 128, 190);
+}
+
+#casa1{
+    width:50%; height:100;
+    margin-left: 20%;
+}
+
+
+dd#villas{
+    font-size: 35px;
 }
 
