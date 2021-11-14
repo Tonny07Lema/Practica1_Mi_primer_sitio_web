@@ -26,8 +26,12 @@ dl#casa {
 p#villa{
     font-size: 25px;
 }
+dl#arriendo {
+	width: 100%;
+    margin: 20px px 0px 0px;
+}
 
-dl#arriendos {
-	width: 57%;
-	margin: 0px px 0px 20px;
+dd#arr_letra{
+    font-size: 20px;
+    margin: 0px 55%;
 }
