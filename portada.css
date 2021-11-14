@@ -1,0 +1,15 @@
+#propiedades {
+    position:static ;width: 65% ; height: 5%;
+    float: left;
+}
+aside{
+    width: 35%;
+    float: left;
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
