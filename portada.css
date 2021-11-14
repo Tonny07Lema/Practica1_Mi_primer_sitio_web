@@ -2,14 +2,32 @@
     position:static ;width: 65% ; height: 5%;
     float: left;
 }
-aside{
+aside#mision{
     width: 35%;
     float: left;
 }
+
 h1 {
     text-align: center;
 }
 
+h1#casa{
+    text-align: center;
+    font-size: xx-large;
+}
+
 p {
     text-align: justify;
+}
+dl#casa {
+	width: 57%;
+	margin: 0px px 0px 20px;
+}
+p#villa{
+    font-size: 25px;
+}
+
+dl#arriendos {
+	width: 57%;
+	margin: 0px px 0px 20px;
 }
