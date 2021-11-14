@@ -26,6 +26,14 @@ dl#casa {
 p#villa{
     font-size: 25px;
 }
+
+a#descripcion{
+    font-family: fantasy;
+    font-size: 25px;
+}
+p#depar{
+    font-size: 25px;
+}
 dl#arriendo {
 	width: 100%;
     margin: 20px px 0px 0px;
@@ -41,6 +49,15 @@ dd#derecho{
     margin: 0px 55%;
 }
 
+dd#dpto{
+    font-size: 20px; 
+    margin: 0px 55%;
+}
+
+dd#dptoiz{
+    font-size: 20px; 
+    margin: 0px 10%;
+}
 h2#letra{
     font: oblique bold 120% cursive;
     font-size: 25px; 
