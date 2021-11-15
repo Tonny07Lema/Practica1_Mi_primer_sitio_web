@@ -21,10 +21,8 @@ h1#casa{
 h1#arriendos{
     text-align: left;
 
-p {
-    text-align: justify;
 }
-dl#casa {
+dl#casa{
 	width: 57%;
 	margin: 0px px 0px 20px;
 }

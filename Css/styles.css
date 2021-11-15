@@ -1,28 +1,28 @@
 #portada{
     position:static; z-index:1; width:100%; height:100%
 }
-#menu{
+.menu{
     background-color: rgb(50, 168, 168);
 }
 
-#menu ul {
+.menu ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-#menu ul li{
+.menu ul li{
     display: inline-block;
 }
 
-#menu ul li a{
+.menu ul li a{
     color: black;
     display: block;
     padding: 20px 53px;
     text-decoration: none;
 }
 
-#menu ul li a:hover{
+.menu ul li a:hover{
     background-color: rgb(51, 128, 190);
 }
 
@@ -61,3 +61,32 @@ th#pie{
     width:35%; height:100;
     margin-left: 20%;
 }
+
+footer {
+    border: 2px solid black;
+    background: #73e1f5;
+    min-height: 5em;
+    position: float;
+    bottom: 0;
+    width: 100%;
+}
+
+.pie {
+    text-align: center;
+}
+
+#bordes{
+    width:100%;
+    height:100%;
+    border:3px solid brown;
+    border-radius:22px;
+}
+
+#bordes1{
+    width:100%;
+    height:100%;
+    border:3px solid brown;
+    border-radius: 10px 0px 39px 22px;
+    background-color:#e3d193;
+    padding:0px;
+ }
