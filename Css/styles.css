@@ -36,3 +36,28 @@ dd#villas{
     font-size: 35px;
 }
 
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(226, 238, 156);
+    position:static;
+}
+
+th,td{
+    padding: 10px;
+}
+
+th{
+    text-align: center;
+}
+td{
+    text-align: center; 
+}
+th#pie{
+    text-align: left;
+}
+
+#arriendo1{
+    width:35%; height:100;
+    margin-left: 20%;
+}

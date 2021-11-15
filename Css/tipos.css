@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+
 #propiedades {
     position:static ;width: 65% ; height: 5%;
     float: left;
@@ -15,6 +17,9 @@ h1#casa{
     text-align: center;
     font-size: xx-large;
 }
+
+h1#arriendos{
+    text-align: left;
 
 p {
     text-align: justify;
