@@ -118,4 +118,16 @@ footer {
     padding:0px;
 }
 
+table tr th#TablaCasa1{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(77, 202, 129);
+    position:static;
+}
 
+table tr td#TablaCasa1{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(156, 208, 238);
+    position:static;
+}

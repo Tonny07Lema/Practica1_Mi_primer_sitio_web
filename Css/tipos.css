@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monda&display=swap');
 
 #propiedades {
     position:static ;width: 65% ; height: 5%;
@@ -27,6 +30,10 @@ h1#arriendos{
     text-align: left;
 
 }
+h1#alquiler{
+    text-align: center 50%;
+    font-size: xx-large;
+}
 dl#casa{
 	width: 57%;
 	margin: 0px px 0px 20px;
@@ -40,8 +47,14 @@ a#descripcion{
     font-size: 25px;
 }
 p#depar{
+    font-family: 'Chakra Petch', sans-serif;
     font-size: 25px;
 }
+p#local{
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+}
+
 dl#arriendo {
 	width: 100%;
     margin: 20px px 0px 0px;
@@ -91,4 +104,13 @@ h2#sub{
 .arriendos{
     font-family: 'Righteous', cursive;
     font-size: 25px;
+}
+
+time {
+    font-weight: bold;
+}
+
+li a#DetalleAlquiler{
+    font-family: 'Righteous', cursive;
+    font-size: 20;
 }
