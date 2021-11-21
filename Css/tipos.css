@@ -114,3 +114,7 @@ li a#DetalleAlquiler{
     font-family: 'Righteous', cursive;
     font-size: 20;
 }
+
+p#formulario{
+    font-weight: bold;
+}

@@ -131,3 +131,11 @@ table tr td#TablaCasa1{
     background-color: rgb(156, 208, 238);
     position:static;
 }
+
+.textarea{
+    border: 2px solid black;
+}
+
+section#Formulario {
+    margin: 0% 0% 5% 31%; 
+}
