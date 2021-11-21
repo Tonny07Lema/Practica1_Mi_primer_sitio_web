@@ -27,7 +27,7 @@ dl#casa{
 	margin: 0px px 0px 20px;
 }
 p#villa{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 a#descripcion{
@@ -45,10 +45,11 @@ dl#arriendo {
 dd#arr_letra{
     font-size: 20px;
     margin: 0px 55%;
+    
 }
 
 dd#derecho{
-    font-size: 25px; 
+    font-size: 15px; 
     margin: 0px 55%;
 }
 
@@ -66,11 +67,15 @@ h2#letra{
     font-size: 25px; 
 }
 
+dd#villas{
+    font-size: 20px;
+}
+
 h2{
     font: oblique bold 120% cursive;
 }
 
 h2#sub{
-    font: 150% sans-serif;
+    font: 125% sans-serif;
     color: darkred;
 }

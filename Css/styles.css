@@ -5,6 +5,9 @@
     background-color: rgb(50, 168, 168);
 }
 
+body{
+    background-color: #ddd;
+}
 .menu ul {
     list-style: none;
     margin: 0;
@@ -22,10 +25,34 @@
     text-decoration: none;
 }
 
-.menu ul li a:hover{
-    background-color: rgb(51, 128, 190);
+.menuCasas ul li a:hover{
+    background-color: rgb(107, 141, 235);
 }
 
+.menuCasas{
+    background-color: rgb(112, 166, 216);
+}
+
+.menuCasas ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menuCasas ul li{
+    display: inline-block;
+}
+
+.menuCasas ul li a{
+    color: black;
+    display: block;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+
+.menuCasas ul li a:hover{
+    background-color: rgb(110, 121, 223);
+}
 #casa1{
     width:50%; height:100;
     margin-left: 20%;
@@ -89,4 +116,6 @@ footer {
     border-radius: 10px 0px 39px 22px;
     background-color:#e3d193;
     padding:0px;
- }
+}
+
+
