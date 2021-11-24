@@ -1,12 +1,7 @@
+
+
 #portada{
     position:static; z-index:1; width:100%; height:100%
-}
-.menu{
-    background-color: rgb(50, 168, 168);
-}
-
-body{
-    background-color: #ddd;
 }
 .menu ul {
     list-style: none;
@@ -19,123 +14,47 @@ body{
 }
 
 .menu ul li a{
-    color: black;
     display: block;
-    padding: 20px 45px;
-    text-decoration: none;
 }
 
-.menuCasas ul li a:hover{
-    background-color: rgb(107, 141, 235);
-}
-
-.menuCasas{
-    background-color: rgb(112, 166, 216);
-}
-
-.menuCasas ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-.menuCasas ul li{
-    display: inline-block;
-}
-
-.menuCasas ul li a{
-    color: black;
-    display: block;
-    padding: 20px 50px;
-    text-decoration: none;
-}
-
-.menuCasas ul li a:hover{
-    background-color: rgb(110, 121, 223);
-}
 #casa1{
     width:50%; height:100;
     margin-left: 20%;
 }
 
-
-dd#villas{
-    font-size: 35px;
-}
-
-table,th,td{
-    border: 2px solid black;
-    border-collapse: collapse;
-    background-color: rgb(226, 238, 156);
-    position:static;
+#villas{
+    font-size: 25px;
 }
 
 th,td{
     padding: 10px;
 }
 
-th{
-    text-align: center;
-}
-td{
-    text-align: center; 
-}
-th#pie{
-    text-align: left;
-}
-
-#arriendo1{
-    width:35%; height:100;
-    margin-left: 20%;
-}
-
 footer {
-    border: 2px solid black;
-    background: #73e1f5;
     min-height: 5em;
     position: float;
     bottom: 0;
     width: 100%;
 }
 
-.pie {
-    text-align: center;
-}
-
 #bordes{
     width:100%;
     height:100%;
-    border:3px solid brown;
     border-radius:22px;
 }
-
-#bordes1{
-    width:100%;
-    height:100%;
-    border:3px solid brown;
-    border-radius: 10px 0px 39px 22px;
-    background-color:#e3d193;
-    padding:0px;
-}
-
-table tr th#TablaCasa1{
-    border: 2px solid black;
-    border-collapse: collapse;
-    background-color: rgb(77, 202, 129);
-    position:static;
-}
-
-table tr td#TablaCasa1{
-    border: 2px solid black;
-    border-collapse: collapse;
-    background-color: rgb(156, 208, 238);
-    position:static;
-}
-
-.textarea{
-    border: 2px solid black;
-}
-
-section#Formulario {
+section#FormularioB {
     margin: 0% 0% 5% 31%; 
+}
+
+#derecho{
+    margin: 0px 55%; 
+}
+#Terrenoderecho{
+    margin: 0px 15%;
+}
+#dpto{
+    margin: 0px 55%;
+}
+#dptoiz{
+    margin: 0px 10%;
 }

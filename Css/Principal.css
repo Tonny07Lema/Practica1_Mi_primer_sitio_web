@@ -1,0 +1,27 @@
+#propiedades {
+    position:static ;width: 65% ; height: 5%;
+    float: left;
+}
+
+.mision{
+    width: 35%;
+    float: left;
+}
+
+#casaI{
+	width: 57%;
+	margin: 0px px 0px 20px;
+}
+
+#arriendo {
+	width: 100%;
+    margin: 20px px 0px 0px;
+}
+
+#arr_letra{
+    font-size: 20px;
+}
+#arriendo1{
+    width:35%; height:100;
+    margin-left: 20%;
+}

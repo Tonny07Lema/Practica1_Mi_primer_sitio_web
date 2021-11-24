@@ -4,103 +4,73 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Monda&display=swap');
 
-#propiedades {
-    position:static ;width: 65% ; height: 5%;
-    float: left;
-}
-aside#mision{
-    width: 35%;
-    float: left;
+section article #negocios{
+    font: oblique bold 180% cursive;
 }
 
-section article p#negocios{
-    font: oblique bold 200% cursive;
-}
 
 h1 {
     text-align: center;
 }
 
-h1#casa{
+#casa{
     text-align: center;
     font-size: xx-large;
 }
-
-h1#arriendos{
+#marco{
     text-align: left;
-
 }
-h1#alquiler{
-    text-align: center 50%;
-    font-size: xx-large;
-}
-dl#casa{
-	width: 57%;
-	margin: 0px px 0px 20px;
-}
-p#villa{
+#villa{
     font-size: 20px;
 }
-
-a#descripcion{
+#descripcion{
     font-family: fantasy;
     font-size: 25px;
 }
-p#depar{
+#depar{
     font-family: 'Chakra Petch', sans-serif;
     font-size: 25px;
 }
-p#local{
+#local{
     font-family: 'Cinzel', serif;
     font-size: 25px;
 }
 
-dl#arriendo {
-	width: 100%;
-    margin: 20px px 0px 0px;
-}
-
-dd#arr_letra{
+#arr_letra{
     font-size: 20px;
-    margin: 0px 55%;
-    
 }
 
-dd#derecho{
-    font-size: 15px; 
-    margin: 0px 55%;
+#derecho{
+    font-size: 15px;
 }
 
-dd#Terrenoderecho{
+#Terrenoderecho{
     font-size: 20px; 
-    margin: 0px 15%;
-}
-dd#dpto{
-    font-size: 20px; 
-    margin: 0px 55%;
 }
 
-dd#dptoiz{
+#dpto{
     font-size: 20px; 
+}
+
+#dptoiz{
+    font-size: 20px;
+    /* 
     margin: 0px 10%;
+    */
 }
-h2#letra{
+#letra{
     font: oblique bold 120% cursive;
     font-size: 25px; 
 }
-
-dd#villas{
-    font-size: 20px;
-}
-
 h2{
-    font: oblique bold 120% cursive;
+    font: oblique bold 122% cursive;
 }
 
-h2#sub{
+#sub{
     font: 125% sans-serif;
     color: darkred;
 }
+
 .arriendos{
     font-family: 'Righteous', cursive;
     font-size: 25px;
@@ -109,12 +79,90 @@ h2#sub{
 time {
     font-weight: bold;
 }
-
-li a#DetalleAlquiler{
-    font-family: 'Righteous', cursive;
-    font-size: 20;
+#formulario{
+    font-weight: bold;
+}
+.menu{
+    background-color: rgb(50, 168, 168);
+}
+body{
+    background-color: #ddd;
 }
 
-p#formulario{
-    font-weight: bold;
+.menu ul li a{
+    color: black;
+    padding: 20px 45px;
+    text-decoration: none;
+}
+
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(226, 238, 156);
+    position:static;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center; 
+}
+th#pie{
+    text-align: left;
+}
+
+footer {
+    border: 2px solid black;
+    background: #73e1f5;
+}
+.pie {
+    text-align: center;
+}
+
+#bordes{
+
+    border:3px solid brown;
+}
+
+table tr th#TablaCasa1{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(77, 202, 129);
+    position:static;
+}
+
+table tr td#TablaCasa1{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(156, 208, 238);
+    position:static;
+}
+
+.textarea{
+    border: 2px solid black;
+}
+.menu a:hover{
+    background-color: rgb(0, 110, 255);
+    border: 1px solid rgb(2, 68, 248);
+}
+
+.menu1{
+    background-color:#9EB8C0;
+}
+
+.contenido{
+   background-color: rgba(165, 159, 159, 0.63);
+}
+.contenido1{
+    background-color: rgba(165, 159, 159, 0.63);
+}
+
+.contenido2{
+    background-color: rgba(165, 159, 159, 0.63);
+}
+.contenido3{
+    background-color: rgba(165, 159, 159, 0.63);
+}
+.lateral{
+    background-color: #BDFFFA;
 }
