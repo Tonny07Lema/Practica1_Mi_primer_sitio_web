@@ -1,2 +1,2 @@
 # Practica1_Mi_primer_sitio_web
-Actividades Desarrolladas
+<strong>Actividades Desarrolladas</strong>
