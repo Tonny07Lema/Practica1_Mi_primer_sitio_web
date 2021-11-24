@@ -33,7 +33,9 @@ De esta manera es como se visualiza en la web
 ![intro](ImagenesInforme/Imagen7.png)
 
 ![intro](ImagenesInforme/Imagen8.png)
+
 ![intro](ImagenesInforme/Imagen9.png)
+
 •	Todas las páginas *.html deben tener una etiqueta header la cuál, deberá contener una imagen (logo) relacionada al tema elegido.
 Código HTML que será realizado en cada una de la paginas
 
@@ -144,6 +146,7 @@ Como se realizó el diseño en css
 Como se muestra en la web
 
 ![intro](ImagenesInforme/Imagen32.png)
+
 ![intro](ImagenesInforme/Imagen33.png)
 
 Así, como también se recomienda utilizar, en al menos una página HTML, un diseño a tres columnas con cabecera y pie de página
@@ -157,6 +160,7 @@ Como se realizó el diseño en css
 Como se muestra en la web
 
 ![intro](ImagenesInforme/Imagen36.png)
+
 ![intro](ImagenesInforme/Imagen37.png)
 
 De igual manera, se pide que se organice en al menos cuatro archivos CSS los estilos para las diferentes páginas html, estos archivos estarán almacenados en una carpeta llamada css
@@ -223,10 +227,12 @@ Conclusiones
 •	Mediante la utilización de HTML y css se pudo ver de otra forma de cómo se realiza una página web en la en las que se utilizó el section, article o fooder que es una parte fundamental para el diseño de la página web.
 •	Gracias a la utilización de GitHub se tubo otro tipo de respaldo ya sea para los HTML o css que en caso de que se elimine la carpeta nos queda como un respaldo adicional.
 •	La utilización del diseño de los HTML ya sea de dos o de tres columnas no ayudo a mejorar me manera mas correcta el estar utilizando los márgenes de texto que nos permitió el mejor diseño de los HTML
+
 Información de GitHub
 Usuario: Tonny07Lema
 URL del repositorio de la práctica:
 https://github.com/Tonny07Lema/Practica1_Mi_primer_sitio_web
+
 Firma de estudiante: 
 
 ![intro](ImagenesInforme/Imagen53.png)
